@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components/native';
-
+//Testing branch change
 export default TextStyle = ({ ...props }) => {
     return <Text {...props}>{props.children}</Text>;
 }
